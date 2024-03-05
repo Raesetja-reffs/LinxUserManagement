@@ -1,0 +1,14 @@
+:root {
+    --lum-dark: #1d1d1b;
+    --lum-dark-highlight: #3c3c39;
+    --lum-light: #ffffff;
+    --lum-light-highlight: #bababa;
+    
+    --lum-blue: #0a2343;
+    --lum-blue-highlight: #1b3f6d;
+    --lum-yellow: #cfbb00;
+    --lum-yellow-highlight: #d3c760;
+
+    --lum-chart-remaining: #cfbb00;
+    --lum-chart-total: #0a2343;
+}
